@@ -1,1 +1,2 @@
-here is a test using git submodules
+here is a test using git of submodules
+
