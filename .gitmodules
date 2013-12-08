@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/sajidj/web.git
+[submodule "project"]
+	path = project
+	url = https://github.com/sajidj/project.git
